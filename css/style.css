@@ -51,8 +51,29 @@ img {
     min-height: 150px;
 }
 
-/* seconda sezione */
+/* seconda e quarta sezione */
+.azzurro {
+    background-color: rgb(11, 131, 243);
+    min-height: 300px;
+    flex-basis: 65%;
+}
 
+.rosetto {
+    background-color: rgb(226, 90, 208);
+    min-height: 300px;
+    flex-basis: 35%;
+}
+
+/* terza sezione */
+.color-purple-blu {
+    flex-direction: row-reverse;
+}
+
+.color-grey {
+    background-color: lightgray;
+}
+
+/* quinta sezione */
 
 
 /* DEBUG RULES */
@@ -64,7 +85,6 @@ img {
 
 .debug .row {
     border: 3px solid red;
-    padding: 15px;
 }
 
 .debug .col {
