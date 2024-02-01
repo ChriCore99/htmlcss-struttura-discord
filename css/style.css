@@ -100,6 +100,22 @@ img {
     flex-basis: 15%;
 }
 
+/* footer */
+.footer-sec {
+    background-color: rgb(51, 51, 51);
+}
+
+.acqua {
+    background-color: aqua;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    justify-content: space-between;
+}
+
+.foot {
+    background-color: salmon;
+}
+
 /* DEBUG RULES */
 
 .debug .container {
