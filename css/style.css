@@ -1,5 +1,27 @@
 /* RESET RULES */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
 
-/* STYLE */
+ul, ol, menu {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* LAYOUT */
+
+.container {
+    max-width: 900px;
+    margin: 0 auto solid black;
+}
 
 /* DEBUG RULES */
+
+.debug {
+
+}
