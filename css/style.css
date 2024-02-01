@@ -41,9 +41,19 @@ img {
     padding-bottom: 15px;
 }
 
-.main-sec1-color {
+/* prima sezione */
+.color-blu {
     background-color: blue;
 }
+
+.purple {
+    background-color: plum;
+    min-height: 150px;
+}
+
+/* seconda sezione */
+
+
 
 /* DEBUG RULES */
 
