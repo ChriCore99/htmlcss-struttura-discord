@@ -83,6 +83,23 @@ img {
     min-height: 550px;
 }
 
+/* sesta sezione */
+.color-salmon {
+    background-color: rgb(51, 51, 51);
+}
+
+.salmone {
+    background-color: salmon;
+    min-height: 400px;
+    flex-basis: 40%;
+}
+
+.azzurro-spento {
+    background-color: rgb(4, 112, 131);
+    min-height: 400px;
+    flex-basis: 15%;
+}
+
 /* DEBUG RULES */
 
 .debug .container {
