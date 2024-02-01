@@ -33,6 +33,21 @@ img {
 
 .col-header {
     min-height: 25px;
+    background-color: rgb(233, 181, 10);
+}
+
+.header-logo {
+    flex-basis: 25%;
+}
+
+.header-login {
+    flex-basis: 25%;
+    text-align: end;
+}
+
+.header-link {
+    flex-basis: 50%;
+    text-align: center;
 }
 
 /* main */
