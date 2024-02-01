@@ -15,6 +15,7 @@ img {
 
 /* LAYOUT */
 
+/* header */
 .header-sec {
     background-color: aqua;
     padding-top: 10px;
@@ -30,6 +31,20 @@ img {
     display: flex;
 }
 
+.col-header {
+    min-height: 25px;
+}
+
+/* main */
+.main-sec {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.main-sec1-color {
+    background-color: blue;
+}
+
 /* DEBUG RULES */
 
 .debug .container {
@@ -43,6 +58,6 @@ img {
 }
 
 .debug .col {
-    border: 2px solid green;
-    min-height: 300px;
+    border: 2px solid black;
+    /* min-height: 300px; */
 }
